@@ -1,1 +1,1 @@
-# Designed and created the structure of a Book Listing app which would allow a user to get a list of published books on a given topic by using the google books API in order to fetch results and display them to the user.
+#Designed and created the structure of a Book Listing app which would allow a user to get a list of published books on a given topic by using the google books API in order to fetch results and display them to the user.
